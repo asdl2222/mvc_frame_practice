@@ -1,0 +1,3 @@
+rootProject.name = 'MVC_Frame_Practice'
+include 'webapps'
+
